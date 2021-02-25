@@ -1,4 +1,4 @@
-# Classifying-Facial-Attributes-and-Accessories-with-LeNet-Project-based-AI-course
+# Classifying Facial Attributes and Accessories with LeNet.Tensorflow
 
 # Information
 - This repo is the part of project assigned on Aritificial Intelligence course (109.1【工管系】IM6507701 人工智慧 Artificial Intelligence), Taiwan Tech.
