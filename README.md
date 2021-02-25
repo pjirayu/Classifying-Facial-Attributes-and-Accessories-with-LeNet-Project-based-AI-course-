@@ -15,8 +15,12 @@ The code is developed using python > 3.6 and training is able on both CPU/GPU.
 
 # Quick Start
 Installation
-Install Tensorflow >= v2.0
-Also, Colab-Notebook and/or Jupyter-notebook are available for training and testing.
+  1. Install Tensorflow >= v2.0
+  2. Also, Colab-Notebook and/or Jupyter-notebook are available for training and testing.
+
+
+
+# Repository
 
 ```
 $ Dataset
