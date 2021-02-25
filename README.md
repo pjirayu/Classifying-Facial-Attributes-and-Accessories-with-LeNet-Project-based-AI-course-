@@ -11,7 +11,7 @@ by there are three labels i.e. mustache, wearing hat and wearing eyeglasses.
 
 
 # Environment
-The code is developed using python > 3.6 and training is able on both CPU/GPU.
+The code is developed using python > 3.6 and training is available on both CPU/GPU (selecting for once).
 
 # Quick Start
 Installation
