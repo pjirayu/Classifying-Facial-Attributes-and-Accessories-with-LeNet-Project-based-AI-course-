@@ -9,18 +9,7 @@ We have arranged three groups for single-label, three groups for dual-label and 
 by there are three labels i.e. mustache, wearing hat and wearing eyeglasses
 
 
-${POSE_ROOT}
-├── data
-├── experiments
-├── lib
-├── log
-├── models
-├── output
-├── pose_estimation
-├── README.md
-└── requirements.txt
-
-Dataset
+$ Dataset
 |
 |(single-label)
 ├── 001 (36 ea.) - mustache
