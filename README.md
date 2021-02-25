@@ -21,7 +21,7 @@ $ Dataset
 ├── 110 (19 ea.) - wearing eyeglasses + hat
 |
 |(multi-label)
-└──111 (15 ea.) - mustache + wearing eyeglasses + hat
+└── 111 (15 ea.) - mustache + wearing eyeglasses + hat
 ```
 
 You can select to run two type from two files (seperation)
