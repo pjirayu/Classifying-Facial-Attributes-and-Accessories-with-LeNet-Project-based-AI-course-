@@ -30,6 +30,8 @@ https://roboflow.com/
 You can train and inference samples for cnn-single-multi-label.ipynb file
 -  cnn-single-multi-label.ipynb
 
+Also, You can use Colab-Notebook and/or jupyter-notebook for training and testing
+
 ```
 Whole project
 $ root
