@@ -1,13 +1,13 @@
 # Classifying-Facial-Attributes-and-Accessories-with-LeNet-Project-based-AI-course
 
-This repo is the part of project assigned on Aritificial Intelligence course (109.1【工管系】IM6507701 人工智慧 Artificial Intelligence), Taiwan Tech
+This repo is the part of project assigned on Aritificial Intelligence course (109.1【工管系】IM6507701 人工智慧 Artificial Intelligence), Taiwan Tech.
 
 The topic is a Classifying Facial Attributes and Accessories with LeNet (Not pubblishing)
-This problem will teach you to create datasets by using Roboflow and training dataset from your created dataset
+This problem will teach you to create datasets by using Roboflow and training dataset from your created dataset.
 
 Dataset is gathering from google (might be license some image)
 We have arranged three groups for single-label, three groups for dual-label and one group for multi-label (three labels)
-by there are three labels i.e. mustache, wearing hat and wearing eyeglasses
+by there are three labels i.e. mustache, wearing hat and wearing eyeglasses.
 
 ```
 $ Dataset
@@ -25,13 +25,13 @@ $ Dataset
 └── 111 (15 ea.) - mustache + wearing eyeglasses + hat
 ```
 
-Then use Roboflow to create dataset (Amount of data propotional for implementing in training, validating, and testing set, you can define by yourself)
+Then use Roboflow to create dataset (Amount of data propotional for implementing in training, validating, and testing set, you can define by yourself).
 https://roboflow.com/
 
-You can train and inference samples for cnn-single-multi-label.ipynb file
+You can train and inference samples for cnn-single-multi-label.ipynb file.
 -  cnn-single-multi-label.ipynb
 
-Also, You can use Colab-Notebook and/or jupyter-notebook for training and testing
+Also, You can use Colab-Notebook and/or jupyter-notebook for training and testing.
 
 ```
 Whole project
