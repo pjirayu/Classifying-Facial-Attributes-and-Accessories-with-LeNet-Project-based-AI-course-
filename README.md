@@ -5,3 +5,7 @@ This repo just project assignment on Aritificial Intelligence course (109.1„ÄêÂ∑
 The topic of a Classifying Facial Attributes and Accessories with LeNet (Not pubblishing)
 
 Dataset is gathering from google (might be license some image)
+
+You can select to run two type from two files
+- multi-label
+- single-label
