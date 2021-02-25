@@ -24,9 +24,11 @@ $ Dataset
 └── 111 (15 ea.) - mustache + wearing eyeglasses + hat
 ```
 
-You can select to run two type from two files (seperation)
-- multi-label
-- single-label
+Then use Roboflow to create dataset (Amount of data propotional for implementing in training, validating, and testing set, you can define by yourself)
+https://roboflow.com/
+
+You can train and inference samples for cnn-single-multi-label.ipynb file
+-  cnn-single-multi-label.ipynb
 
 ```
 Whole project
@@ -34,6 +36,5 @@ $ root
 |
 ├── Datasets (Folder)
 ├── Assignment 2 (PDF problem)
-├── cnn-multi-label.ipynb
-└── cnn-single-label.ipynb
+└── cnn-single-multi-label.ipynb
 ```
