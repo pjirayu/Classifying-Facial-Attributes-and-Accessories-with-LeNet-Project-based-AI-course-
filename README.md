@@ -24,6 +24,15 @@ $ Dataset
 └──111 (15 ea.) - mustache + wearing eyeglasses + hat
 ```
 
-You can select to run two type from two files
+You can select to run two type from two files (seperation)
 - multi-label
 - single-label
+
+```
+Whole project
+$ root
+├── Datasets (Folder)
+├── Assignment 2 (PDF problem)
+├── cnn-multi-label.ipynb
+└── cnn-single-label.ipynb
+```
