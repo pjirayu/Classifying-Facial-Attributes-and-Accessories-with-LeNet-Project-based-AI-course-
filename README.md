@@ -1,7 +1,7 @@
 # Classifying Facial Attributes and Accessories with LeNet.Tensorflow
 
 # Information
-- This repo is the part of project assigned on Aritificial Intelligence course (109.1【工管系】IM6507701 人工智慧 Artificial Intelligence), Taiwan Tech.
+- This repo is the part of project assigned in Aritificial Intelligence course (109.1【工管系】IM6507701 人工智慧 Artificial Intelligence), Taiwan Tech.
 - The topic is a Classifying Facial Attributes and Accessories with LeNet (Not pubblishing)
 - This problem will teach you to create datasets by using Roboflow and training dataset from your collected images.
 - Dataset is gathering from google (might be license some image. I use for studying in the course only)
