@@ -20,7 +20,7 @@ Installation
 
 
 
-# Repository
+# Directory and how to train
 
 ```
 $ Dataset
