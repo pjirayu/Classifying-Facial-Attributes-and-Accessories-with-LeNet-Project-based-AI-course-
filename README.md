@@ -4,7 +4,7 @@
 - This repo is the part of project assigned on Aritificial Intelligence course (109.1【工管系】IM6507701 人工智慧 Artificial Intelligence), Taiwan Tech.
 - The topic is a Classifying Facial Attributes and Accessories with LeNet (Not pubblishing)
 - This problem will teach you to create datasets by using Roboflow and training dataset from your collected images.
-- Dataset is gathering from google (might be license some image)
+- Dataset is gathering from google (might be license some image. I use for studying in the course only)
 - We have arranged three groups for single-label, three groups for dual-label and one group for multi-label (three labels)
 by there are three labels i.e. mustache, wearing hat and wearing eyeglasses.
 
