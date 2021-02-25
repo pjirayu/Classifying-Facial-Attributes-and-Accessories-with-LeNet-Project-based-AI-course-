@@ -38,13 +38,13 @@ $ Dataset
 └── 111 (15 ea.) - mustache + wearing eyeglasses + hat
 ```
 
-Then use Roboflow to create dataset (Amount of data propotional for implementing in training, validating, and testing set, you can define by yourself).
+You have to use Roboflow to create dataset (Amount of data propotional for implementing in training, validating, and testing set, you can define by yourself on website).
 https://roboflow.com/
 
 How to create dataset(limited 1000 images per month per dataset)
 https://docs.roboflow.com/adding-data
 
-You can train and inference samples for cnn-single-multi-label.ipynb file.
+You can train and inference samples on cnn-single-multi-label.ipynb file.
 -  cnn-single-multi-label.ipynb
 
 ```
